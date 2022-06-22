@@ -1,6 +1,8 @@
 # My Programming Profile
 
-### My name is William Uemura. I'm a high schooler with an intense interest in programming who builds projects all the time. Below is an accessible list of most of my programming projects.
+My name is William Uemura. I'm a high schooler with an intense love for programming who builds projects all the time. Below is an accessible list of most of the projects that I've worked on.
+
+The idea for this profile page was basically ripped off from [this site](https://pfg.pw).
 
 
 ## My projects:
