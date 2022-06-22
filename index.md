@@ -40,6 +40,14 @@ These projects are no longer supported, but some of them may work. If you ever w
 
 
 
+### [The World of Kaythan](https://replit.com/@PXY/WoK-Main#extraData.py)
+
+A survival game that runs in the Python terminal.
+
+The environment, including terrain, plants and animals, is randomly generated with every playthrough.
+
+
+
 ### [PassPal](https://passpal.williamuemura.repl.co/)
 
 A very rudementary password generator. 
