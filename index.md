@@ -1,6 +1,6 @@
-# Welcome to my page.
+# My Programming Profile
 
-### I'm a software developer. That means that I develop software, I'm pretty sure. More is going to be added to this site over time.
+### My name is William Uemura. I'm a high schooler with an intense interest in programming who builds projects all the time. Below is an accessible list of most of my programming projects.
 
 
 ## My projects:
