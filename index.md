@@ -14,7 +14,12 @@ A very rudementary password generator and the first real website I've ever devel
 
 ### [PassPal 2](https://passpal2.williamuemura.repl.co/)
 
-A much prettier version of PassPal that will eventually replace PassPal altogether. 
+A much prettier version of PassPal. Currently working towards
+
+
+### [MealMan](https://discord.com/invite/gKWxmh8xmV)
+
+A discord bot that can generate random recipes from a limited database and evaluate the nutrition facts of a list of ingredients. The above link directs you to the support server for the bot.
 
 
 ### [My Replit Django Template](https://django.williamuemura.repl.co/)
