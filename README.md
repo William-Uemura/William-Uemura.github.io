@@ -1,3 +1,3 @@
-# William-Uemura.github.io
+# My Program Portfolio
 
-A website where I showcase projects I've personally built.
+A convenient portfolio where you can conveniently find a few of the more notable programs I've written.
