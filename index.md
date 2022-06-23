@@ -54,7 +54,7 @@ A very rudementary password generator.
 
 
 
-### [MyProfilePal]([https://discord.com/invite/gKWxmh8xmV](https://discord.com/api/oauth2/authorize?client_id=585645133966606336&permissions=8&scope=bot))
+### [MyProfilePal](https://discord.com/invite/gKWxmh8xmV](https://discord.com/api/oauth2/authorize?client_id=585645133966606336&permissions=8&scope=bot)
 
 A discord bot that lets you create custom profiles within a server, much akin to the "bio" section of other social media apps.
 
