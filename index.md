@@ -34,7 +34,7 @@ An extension of the Django framework template offered by [Replit](https://replit
 
 
 
-## Old Projects:
+## Completed Projects:
 
 These projects are no longer supported, but some of them may work. If you ever want me to update one of these projects, then send me a message and I'll see what I can do.
 
@@ -51,3 +51,11 @@ The environment, including terrain, plants and animals, is randomly generated wi
 ### [PassPal](https://passpal.williamuemura.repl.co/)
 
 A very rudementary password generator. 
+
+
+
+### [MyProfilePal]([https://discord.com/invite/gKWxmh8xmV](https://discord.com/api/oauth2/authorize?client_id=585645133966606336&permissions=8&scope=bot))
+
+A discord bot that lets you create custom profiles within a server, much akin to the "bio" section of other social media apps.
+
+Discord has since turned the functions of this bot into an actual feature. MyProfilePal still has a few advantages over Discord's app, though.
